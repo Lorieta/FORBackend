@@ -1,0 +1,3522 @@
+[
+  {
+    "message": "I love to read romantic novels. What type of books do you like to read?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes, I love to read those romantic novels as well though I haven't done much reading lately ever since football season started and now basketball. Any favorites in particular?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I am a huge fan of what Sarah MacLean recommends. She's a washington post column. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh Ok, I'm not too familiar with her work, I'll have to look it up after the chat. I do follow a couple of sports authors and read an opinion piece on why the author thinks the University of Iowa's locker room for visiting football teams is painted pink.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Do you have a list of sport authors for books you have read?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I like books by Michael Lewis and Ellie Kennedy but recently there's been more debate about the dangers of football on head injuries. Those articles are really convincing, how do you feel about football?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I know a lot of facts about NFL and I watch the superbowl, but other than that, I'm lost for words as to why people like football. How can a game with 11 minutes of live gameplay take 3 hours of air time.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Haha, I feel the same way! It's because they need to play ads so as to beat the average lifetime earnings of engineers because supposedly their earnings are higher than the average lifetime earnings of NFL players which I find hard to believe.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Damn, I did not know engineers made that much. I should have gone into the STEM field back in college. That's a factoid to add to my future discussions. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, I should've done that too and if my kids ever wanted to be professional cheerleaders, I would be very opposed to it especially since the Saints cheerleaders are forbidden from eating in the same restaurant as the NFL players. They're humans too!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That sounds like borderline discrimination but I guess they don't want the cheerleaders to influence the game. They must have had previous encounters of bad press.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah or gender bias too! Not sure, I didn't read about that in the news, at least not anytime recently, I'm surprised there's no MeToo campaign surround that rule!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I guess it's only a #MeToo moment if they were touched. I doubt they were. I'm surprised that there's no female NFL players, since it is no written rule against this. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Good point, but there's something wrong with that rule. Yeah, but even if females can play, I'd imagine some would have a difficult time meeting the leagues physical eligibility requirements, I'm not sure what that is, do you know?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I don't know. There are some muscular females out there in the world. Certain some of them can give people a run for their spot.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, women can be aggressive and strategize as well! They even use tracking chips to monitor and record the players move on the field, I would love to see the data on that.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I wonder if that's their attempt to bring statistics into the game, similar to how baseball is all a statistical game. Sounds like some 1950 harvard mathematic research team with the latest gadgets.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Haha, that would be cool to track, like how fast a quarterback can throw a ball or the force at which someone tackles. I wonder if the player's contracts for salary are adjusted because they're either one of the fastest players or something.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I doubt the franchise would even know what to do with this data. A lot of them are retired football players who just knows the old fashion game play and will probably never adopt new technology.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh that's a good point. Besides football, I also like to watch comedies and find bromantic comedies to be especially popular and funny.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes. I love harold and kumar. I also love white castle. Maybe I should go for some white castle burgers after this.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Haha yeah! I have never had any White Castle before, though I would love to try some time after seeing their love for the burgers.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "There should still be a few of them around. Well I'm gonna head out for a burger run. Have a good one.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "do you watch the NFL?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yes, do you know who kellan moore is?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I have heard of him. DO you like Brady?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I do. Moore is the only QB that is left handed",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Oh cool. Brady in high school was the resevre QB that never got started",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Wow they sure lost talent there. Did you know Brad Johnson threw himself a touchdown?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "What, how is that even possible?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Exactly why he down in history for being the only one to do it",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I guess. Do you know ALex Smith finished college in two years?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "No really? THat smart? Do you like drama?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I do. Have you ever seen House MD?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I have it is a good show. Do you know JOn Hamm?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Laurie made $700 000 per episode, Yes I like Hamm",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is a lot, Hamm was a drama teacher and one of his students was Ellie Kemper",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Haha they are both too funny.. Do you listen to radio dramas?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Sometimes they can be interesting and you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes and if you are interested there is a free website for them",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh that is so nice and convenient and free",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah it is. DO you know why Michael Caine became an actor?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I have no idea, how? DId tou know Patrick Stewart teaches masters classes in drama in the UK?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Nice. Caine became an actor because all the pretty girls were in drama class",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi, how are you doing today? ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am good, thanks. I'm wondering if you are a football fan like me? I know a lot of people are sad the season is over, especially since fantasy football is such a hit.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I like football, but I don't get much chance to watch. usually I try to catch the SB.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "What is the SB? I know if fantasy football it's all about the picks and people plan for weeks.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Super Bowl. Sorry, should have made that clear. I've never played fantasy sports. What's the goal? How do you win? What do you win?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh, duh, sorry. The goal is to draft the best team by picking members from all teams to make the best.  Did you know bowlers in the 1960's made more than NFL players?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I believe it. Bowlers had their golden age. Many leagues and lots of local interest. Then the modern gladiators showed up and stole the show.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes! I used to bowl myself on a league. I am  more of a football fan. I know former Patriots RB Benjarvus Green-Ellis never had a fumble in his career!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "How did he do that? special gloves? Giant hands? Did he get a bonus? I hope so!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I think just raw talent. It's hard to say if he got a bonus since the NFL has a total of 32 teams. It's hard to keep up.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I can't keep up. That's why I follow during the playoffs. I think that it would be interesting to see if a woman could play.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Actually, the NFL has no rules against women playing as long as they meet the league's eligibility requirements!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I figure that a woman could be akicker or something. They should be referees and such.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I would say. I would not want to see a man v woman contact.    ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes, I think it would make the viewers squeamish. Maybe women on women though. That could be fun.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am not sure I could watch! Although the average game has only 11 minutes of live gameplay.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That seems short, but I guess they stand around waiting a lot. Great work, if you can get it.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, no kidding. Although the average lifetime salary of engineers is higher than the average lifetime earning of an NFL player.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Plus fewer concussions too. I think it would be better for women to go into engineering.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, no kidding! I know the cheerleaders on the Saints have to leave a restaurant if a team player is there.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Sexism, plain and simple. Anyway, great chatting!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Great chatting with you too!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Thanks!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Take care!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Not sure how much longer Football will exist in it's current form.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "the game has caused a lot of injury. it is hard to know who is at fault. there are risks. its obvious.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I guess the question is how much the NCAA officials knew about the potential for serious damage and injury.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "they might not have know exactly but they feared the possibility. too much money at stake to stop the game. too much liability to admit fault.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Money, money, money. Maybe it's time to go to flag football.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yes, then the whole thing could be co-ed. i wish the players had better representation in college. no one helps them.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah, just kids really. I've got boys but have never encouraged them to play tackle football. Playing it before 12 has a lot of risks.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "sports are important but most do not involve such risk of injury. basketball soccer baseball tennis swimming the list is endless. plenty of ways to compete. youre wise to protect your kids.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah, we've done swimming, basketball etc.  ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "thats good. still, the country is dedicated to gridiron gladiators. 14 of the world's 25 largest stadiums belong to american college football teams.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It's a big sport for sure with so much money. An average NFL game only has 11 minutes of live gameplay. Lots of commercials in there.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "The high school football stadium in allen, texas seats 18,000 and cost $60 million to build. i guess the pros have similar stadiums. all for 11 minutes of gameplay. i wonder if schools will ever get money like that.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Dunno, the average NFL player doesn't make that much money in the long run. Careers are too short.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "true, plus they dont know how to manage money. no control no financial knowledge. i figure they should get help from the league.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah, they should. Financial education is critical. I'm more of a literature person personally.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yes, you would need financial education then if you were a player. why was literature in the olympics?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No idea. I guess they were going for a full spread of culture or something. Hear about the contest to come up with the worst possible opening sentence in a novel?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It was a dark and stormy night. suddenly a shot rang out. good stuff! i figure i could be good at being terrible. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "LOL, that would be a lot of fun.  ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Comedic fantasy author terry pratchett was knighted for his \"services to literature\". i wonder what kind of horrible opening lines he could come up with. Anyway, great chat!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Dunno, nice talking!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "are you a football fan",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am.  I used to watch NFL Sunday all the time.  I don't anymore though.  How about you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I watch every Sunday.  it is my favorite time.  Did you know that quarterback's average passing was 93.6 now",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's really impressive.  I find it more interesting that an average NFL game only has 11 minutes of live gameplay.  It's still fun to watch",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I know.  I think because the league prefers offense over defense nowaday",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I believe that. The fans want action all of the time.  Watching defensive play after defensive play can get annoying.  Also, you want point grabbers on your fantasy team too.  Defense doesn't always help you win.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Did you know that the university football locker room was painted in all pink",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's a great way to mess with the visiting team!  Do you play fantasy football?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "hahaha.  Yeah, I play occasionally.  You?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I used to.  I actually used to love playing fantasy Hockey.  I was much better at that.   I never knew that ESPN won an emmy for the creation of the superimposed yellow line!  I didn't think you could win an emmy for that. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I did not that people fantasy draft the national spelling bee",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I can see that.  I didn't know it actually existed though.  It's like in Vegas - you can bet on anything",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Also, do you know that a single fold in the brain makes the difference between perceiving fantasy and reality",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is really interesting.  Almost as interesting as the fact that the Saints' cheerleaders cannot eat in the same restaurant as any NFL player",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think they do not want any distraction.  Hahah",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Probably.  I guess it's written into their contract.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "football players are having too much troubles already",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's true.  But it seems everyone else has to change their ways for them.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I believe so because money talks",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It absolutely does.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "by the way, nice chatting with you.  Happy holiday",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Same to you!  Happy Holidays!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "bye",
+    "agent": "agent_1"
+  },
+  {
+    "message": "hello, let's discuss football.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Can you believe Brady's JV high school football coach refused to play him?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "really? why? I haven't heard about that.. I adored Italian A serie when i was a teenager",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Who is your favorite qb?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Alessandro Nesta, I also liked Paulo Maldini aand Francesco Totti lol.. btw have you heard that Espn won an emmy for the creation of the superimposed yellow line representing the first down line for american football games?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes, it was pretty ingenious. Now they have the Field goal attempt line too right?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I  can't even imagine lol and also The highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222-0, I was shocked, how is that even possible",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I find it funny that the visitor's locker room at Iowa University was painted pink...lol",
+    "agent": "agent_2"
+  },
+  {
+    "message": "lol yes it is funny. who is you favorite quarterback?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Im a huge fan of Baker Mayfield because he likes Halo 3 like me",
+    "agent": "agent_2"
+  },
+  {
+    "message": "wow so cool,  and do you like Alex Smith? I learned that Alex smith took so many ap tests in high school that he entered university as a junior. the quarterback received his bachelor's degree in two years, and began working on a master's degree, before becoming the first overall pick in the 2005 nfl draft.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Did you catch his gruesome leg injury a couple of weeks ago?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "no. Did you know the fact that Kellan moore is the only left handed quarterback in the nfl?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I thought there were other left handed QBs before?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No he is the only one. Which is your favorite drama movie or book?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I really like Sicario",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I like A walk to remember, my childhood favorite movie. Hugh laurie is the highest paid actor ever for tv drama, earning $700,000 per episode in house, it is very interesting to know",
+    "agent": "agent_1"
+  },
+  {
+    "message": "What tv drama does he act in?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I don't like his movies to be honest. One more celebrity news is that actor Michael caine became an actor because all the prettiest girls at his school were in drama class.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Michael is one of my all-time favorite actors!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Really? Which drama movies of him do you like>",
+    "agent": "agent_1"
+  },
+  {
+    "message": "The comedy in which he costars with Steve Martin in Scoundrels",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Hello",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi. The NFL seems to be at the end of its days.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That's what people seem to be saying everywhere, but I don't know.  They have gotten through scandals and issues before.  I'm not counting them out yet.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "What about the problems with the NCAA though? The NFL needs the players.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I get that and it is valid, but it's like any sport.  If 1 person quits, there are 5 waiting to take their place.   If players don't want to play, then they should move along.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "What about the fans though. People might get bored of a game when the quality goes down.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is true.  Everything runs in cycles though.  I liken it to a losing team having an empty stadium and a winning team selling out.  Fans are fickle.  Their... our views are important, but we come and go.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I wonder whether letting women into the game would create interest, get more fans.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Oh, it absolutely would.  It would be like... and I know I am going to butcher the name here, but when Manon Reheaume played in the NHL.  My only concern is that if mishandled it might come off like a gimmick.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I see your point. Long term, will women stay? True.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I feel like... there are enough talented women athletes out there, that a woman kicker or QB is possible, perhaps a wide receiver.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Women can be tough too. Would a coach like Bill Belichick hire a woman if she could help him win the Super Bowl?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "This is going to come off sounding bad, but it isn't meant to.  I think anyone in the front office would look at it from the perspective of generating revenue and views.  The sponsors would love the coverage.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Belichick has done well in the post season, so I think he's looking at it from a strategic point of view. The sponsors would tie her presence into a bunch of social issues and products.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Oh absolutely.  Belichek is looking at it from the right angle too.  He wants to win, that's what he is paid for.  I think the guy would hire a green Martian if he thought it would guarantee an extra TD.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Tom Brady and Belichick have done well together. I wonder how Brady would react to a woman in the huddle.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "What a combo those two are.  While I'm not a huge fan of Brady, I do think that he is enough of a professional to be able to adapt if a scenario like that ever actually took place.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I wonder whether the male players would get jealous of the coverage she gets. If there is revenue sharing, they might not care because they make more $",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think they almost certainly will. It happened in NASCAR when Danica Patrick joined. Then after they get used to it, it will gradually get to be a normal thing. They will adapt to it.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Wow, she is awesome. The violence of the NFL is a bit different though. I wonder if the male players might be hesitant to smash her hard.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "This is true.  That is one thing they will certainly have to adjust to. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "hello, how are you?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi, great.  You?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "same. what is your favorite article?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "This was cool to read.  Nfl uses tracking chips embedded in players shoulder pads to record a players every move on the field. they are also located inside footballs to track: velocity, rotation, ball speed and location.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is crazy. Also it says that nfl has no written rule against female player. I can't picture a woman playing such a sport",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I saw that also.  I agree.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I recall once a girl tried to get on the football team of my highs school. It didnt work out well. Had to quit",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Really?  Did she get blasted?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "She did for sure. She was only 5 feet tall!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm glad to hear they treated her with respect, as an equal player.  An average nfl game only has 11 minutes of live gameplay",
+    "agent": "agent_2"
+  },
+  {
+    "message": "New orleans saints cheerleaders are forbidden from eating in the same restaurant as any nfl player and if they are already dining at a restaurant and an nfl player comes in after, the cheerleaders are required to leave. Isn't this pathetic? ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, that's pretty crazy.  The average lifetime earnings of an engineer is higher than the average lifetime earnings of an nfl player and an average mlb player.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Now that's suprising. I wonder how much would that be",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm not sure.  I think it's because NFL players do not play past their 30s normally ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "True. How about golf? are you familiar with it?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Not really.  I've played but I'm terrible at it.  The average american golf course consumes around 312,000 gallons of water per day.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "looks intriguing. There is a golf course in dubai that requires 4,000,000 gallons of water a day!. I would love to see that ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Wow, me too.  Samuel l. jackson puts a golf clause in his film contracts that allows him to play golf twice a week during production.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Now, that's smart",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Haha, yep it is.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It was very nice chatting with you. Have a great day",
+    "agent": "agent_1"
+  },
+  {
+    "message": "You as well.  Have a great day.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "thanks",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hello, you follow the NFL much?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I do. I am getting ready to watch the playoff games",
+    "agent": "agent_2"
+  },
+  {
+    "message": "for sure, who you rooting for? Saints?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Absolutely and the Patriots.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "for sure, did you know the saints cheerleaders are forbidden from eating at restaurants containing nfl players? I am rooting for the patriots also",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, its a bit hypocritical of the team and the NFL to have a rule like that",
+    "agent": "agent_2"
+  },
+  {
+    "message": "for sure, very sexist. Speaking of the patriots, did you know benjarvus green-ellis never fumbled in his career ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Didn't he fumble a couple of weeks ago?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "He recently retired a year or two ago, that is impressive. Hopefully the patriots take a note from him during the playoffs",
+    "agent": "agent_1"
+  },
+  {
+    "message": "This years 17-week season has wrapped up and now we hit the playoffs. Who do you think will win the Super Bowl this year?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think the bears have a chance, but I think the saints will make a run, you?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes. I am worried though this may be the last year of Brees and Brady. I will have to find a young QB to follow now",
+    "agent": "agent_2"
+  },
+  {
+    "message": "for sure, patrick mahomes is killing it and a good role model, he may be the next star qb if he follows up with another great season",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am really loving watching that kid above all the other young QBs in the NFL.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "for sure, do you follow college football at all?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "A little bit. I am a secret fan of the Chiefs. I follow Ohio State on the college level",
+    "agent": "agent_2"
+  },
+  {
+    "message": "for sure, I am an Iowa fan, did you know they painted their opponent locker room pink?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, thats a bit ridiculous. I need to look at pics online to see what it looks like.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "for sure, it was from their coach years ago who was a psychology graduate. Good chatting with you, you were fast and informative!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "You as well",
+    "agent": "agent_2"
+  },
+  {
+    "message": "go patriots, bye!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Trump and Stone knew very well what Wikileaks had in their hands with those emails",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Is that a fact?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think the email to Bannon back in October proves it.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Fake news! ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "But a copy of the email was published by NY times and Daily Caller, how fake can it be?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Haha - just as telephone, or phone, is a telecommunications device that permits two or more users to conduct a conversation when they are too far apart to be heard directly, those two rags can perpetrate nonsense. Right?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Mueller has the evidence as well as the focus to shed the necessary light on the actual truth of the matter",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm looking forward to the conclusion!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "The conclusion of collusion...lol",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I like the rhyme! Did you know the that the last us president to speak a foreign language fluently was fdr?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I did not know that. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh sure and everyone thinks Trump is illegitimate president because he didn't get the popular vote but 5 presidents have been elected while still losing the popular vote. greatest margin 10%!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I would have liked to see the runner up last election be the VP to bring some order to this chaos as of late.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Well sure and I would've like it to be Bill Murray because he DID voice the human torch in the 1970's fantastic four radio show.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "The canadian radio shows have to play at least 40 percent of canadian music which means tons of Justin Bieber",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Egad - he's not my favorite!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "My grandfather once told me a story about how he had made his first radio with only a razorblade and a pencil",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Is your grandfather MacGyver?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "no, many soldiers during that time did the same thing",
+    "agent": "agent_1"
+  },
+  {
+    "message": "WOW! Cool like the fact that one of the most popular radio acts of the 1930s was a ventriloquist, a fact which baffled contemporary critics.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Have you checked out the free classical dramas on the radio",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Like old ones or present day?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "old classical ones",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Merry Christmas? Let's finish this thing so that I can go check them out!  ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Time to listen to my radio",
+    "agent": "agent_1"
+  },
+  {
+    "message": "indeed!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Do you watch football much?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I do from time to time. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "me too, I am a university of iowa football fan, they paint their visitors locker room pink!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's cool.  Do you watch the NFL at all?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I love watching the NFL, out of the 32 teams, my favorite is the vikings, do you have a favorite?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I like the Cardinals and 49ers.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "nice I was a 49ers fan back in the day. I loved Jerry Rice and Steve Young. Games were more exciting back then. Now gametime is only like 11 minutes of actual playing",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I know! Do you follow the odds for each team winning at all\"",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I do not, what are they?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It is part of how the betting on each team is handled.  There is an over/under on each team winning.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Gotcha, I think your teams have low odds of winning it all currently, that may change with better picks. Did you know who benjarvus green ellis was?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I think he was a running back.  You are correct about my teams winning it all.  The Vikings do not appear to be doing to well either.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "nope lol. Maybe Benjarvus needs to come back and teach our teams how to not fumble the ball!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "LOL!  It seems when the Vikings play the Packers one should pick the Packers.  What do you think?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Well not now, packers are almost worst than both our teams lol! I think the vikings and 49ers could beat them 222-0 like georgia tech beat a team in 1916",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I doubt it. I would say the Packers are favored over the Vikings.  I would not bet against Rogers.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is true, he is pretty prime time. He is my quarterback for my fantasy football team, I can't bet against him",
+    "agent": "agent_1"
+  },
+  {
+    "message": "LOL!  Did you know that one of the most expensive high school football stadiums was built in Allen,TX?  ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I read that in an article, how much was it? that is a waste of money in my opinion!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It was $60 million.  I know that is a ton of money!  Did you also know that Snoop Dogg wrote a fight song for his son's football team?\n",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Wow that is so much money! I did not know about Snoop, I want to hear it. I will go check it out now. Have an amazing day friend!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Do you like watching football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I love watching it!  How about you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I love it also! Do you have a favorite college and NFL team?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I would have to say out of the 42 teams in the NFL the Steelers are my favorite.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Nice, I like the vikings. I like the University of Iowa Hawkeyes for college, have you heard of them?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I have!  I like how they painted their visitors locker room pink.  lol",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Right, it is so interesting to see. Apparently pink is a calming color and why they do it lol",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I could see that.  In the 1960's top bowlers made twice as much as top football stars of the day!  Times have sure changed since then.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Times have changed for sure! I wonder what the difference is now in salary, has to be a ton",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I be it's reveresed!  Do you know what the higest score ever was in a football game?  Hint it was in 1916 and Georgia Tech beat Cumberland.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "what was the score to that 80-0?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It was actually 222-0.  What a blowout.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "no way! That would be insane. I would have quit football right after the game if I was cumberland, wow!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "lol Did you know that ESPN won an emmy for creating the superimposed yellow first down line on tv?  I had no idea.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I did not know that either. I love that line, it is so helpful. I used to think it was real growing up.....",
+    "agent": "agent_1"
+  },
+  {
+    "message": "lol Nice!  How about former Patriots RB Benjarvus Green-Ellis?  He's never fumbled the ball once during his career!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is a great feat! He needs to teach a clinic to these new RBs ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I agree!  What do you think of the tracking chips that they are putting in the players shoulder pads and footballs to track data?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think it is awesome. Must be developed by engineers who make more money than players over their life time. It was nice chatting with you!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's probably due to their longer careers.  Did you know that the NFL only has 11 minutes of live gameplay?  I had fun!  Thanks!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is amazing! Enjoy your day!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Do you like watching football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I do.  I watched the last superbowl on tv.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I did too but mostly just because I wanted to go to a party. I probably won't watch football until the next superbowl on the first Sunday of February of next year.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It is nice to be able to talk about it with coworkers and friends.  Do you know that lifetime earnings of an engineer is higher than lifetime earnings of an average nfl player.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is surprising. And in the 1960s, top bowlers made twice as much as top football stars.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am surprised.  Football players (top ones) make much more money than bowlers now.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah, people do really love their football. I don't really, maybe because there are only about 11 minutes of live gameplay per game.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Americans love NFL games. Do you know that it has 32 teams divided equally between NFC and AFC?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No, I did not know that. Football has come a long way. The technology is awesome. Now shoulder pads and balls have trackers.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "NFL uses tracking chips to record every move by players.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "The footballs track rotation, velocity, ball speed and location. Pretty neat.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It is neat.  That way, the teams can strategize their games.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I wonder if there will ever be any women playing in the NFL. There are no explicit rules against female players.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "There is no rule but I do not think most women are interested in joining American football teams.  This type of football is too physical, unlike soccer.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Some NFL players have just incredible talent. RB Bejarvus green-ellis has never fumbled the football in his nfl career",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is incredible.  I need to read more about him.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Do you like baseball too?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It is rather boring to me.  I have never watched world series, even on tv.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "You are not alone. The women's world cup had higher TV ratings than the world series in the US.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am glad that I'm not alone.  I feel bad since my best friend is into it.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Baseball is actually the only sport I like to watch, but it has to be in person. I like the atmosphere.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi Turker, are you a fan of NFL, if yes do you watch Thursday night football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am a fan, my Thursday nights wouldn't be the same withou that sacred sport, what about you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I feel the same way, I like Thursday night football and I hope nothing change.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It seems like the Thursday packages isnt going anywhere so that is a good thin, did you know Disney is the owner of ABC and ESPN?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No I had no Idea, since Disney always had it own channel, they must have recently brought ABC and ESPN.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah seems like they are buying everything these days, Star Wars, Marvel and now those two channels as well",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Wow, Disney doing good, I knew there was the Disney channel for many years, when I was small that was my favorite channel.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It was  great channel I liked it as well, crazy how much money TV moves and also how much money football moves, $900 million for Thursday night games alone",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Wow it's amazing, did you know ESPN is laying off large numbers of workers?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "No I didnt know that, its terrible, I wonder why, have you watched The Bing Bang Theory?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I used to, but not any more since they got older, after that seems like things wasn't the same.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Well its a really funny show, it has an average of 18 million viewers. The NBC has great series in it. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes I read about the viewers, did you know that women has a chance to play in the nfl if they meet eligibility?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I didnt know about that, what do you think about that rule? would you like to watch a woman in the NFL?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I don't think so, because this will change the entire paste of the game, I don't think 250 and 300 lbs menwould want to tackle women head on, I would like to see a WNFL, women only.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah I dont think its a good sport to mix genres, do you know who Matt Patricia is?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No I don't have any Ideal, does she have something to do with the NfL?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Matt Patricia is a male lol, he is a rocket scientist and also a coach in the NFL",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Wow, I feel a little embarrassed for not knowing that, first chance I get I will read upon him.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Patricia its a girls name so don't worry its an honest mistake, he must be a really smart guy though being a rocket scientist and all",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I thought it was a woman at first, did you know that only 11 minutes of live playtime in a nfl game?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "No didn't know that, 11 minutes of live playtime doesn't seem right, anyways im getting kind of tired, its late so Im going to call it a night. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes you are right, it was nice chatting with you also, good night.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Are you a sports fan by any chance?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "i do like sports. i dont get much chance to watch these days. you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I enjoy a few. Did you know that Babe Ruth was America's most famous golfer at one point?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "i bet it didnt hurt that he was a great baseball player. he could any ball a mile.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I didn't realize he was so multi-talented. Did you know that on average American golf courses consume 312,000 gallons of water per day?!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "that is an insane amount of water for just a bunch of grass. i wonder how much that costs actually.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I agree it's a huge waste. One in Dubai uses 4,000,000 per day!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "rich people have their priorities. i could never afford to play golf, i think.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It is expensive. I feel like that water could be put to so much better use especially in a place like Dubai that has an arid climate. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "i guess the oil makees them rich and money changes peoples perception of reality. in the future they might regret the waste.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Good point and I'm sure they will. Also interestingly. in America golf courses make up more land space that Rhode Island and Delaware combined. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "i wonder how many people in the us actually play golf. its a good sport for business but i think the cost must be prohibitive.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "With the price of equipment and fees it is very expensive. Do you enjoy football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "i do like to watch football. only get the chance from time to time. You?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I do. Did you know that the NFL has no written rules against female players?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "i heard something about that, but then again i dont think they ever imagined a woman showing up to try out.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Possibly. An engineer makes more in a lifetime than a football player. Knowing that, which career would you choose?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "well, i am opposed to concussions and injuries, so would probably go with engineer.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I agree. It would be  so much easier on your body.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Or i could just be a supermodel. not many concussions either. Anyway, nice chat!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is true. It definitely pays well also. Nice talking to you as well. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Do you watch or keep up on much basketball?It's definitely a team sport I didn't play much of ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I watch it from time to time as I enjoy it. do you have a favorite player?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I haven't really had a favorite since Michael Jordan. The guy who invented the sport was a coach at the University of Kansas, and the only losing one at that",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Go figure. do you know who kareem abdul-jabaar was?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I heard he was good at dunking. It was banned from college basketball for over ten years from how frequently he used it",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yeah so strange. do you know what the nz basketball team is called?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Do they have an official name, or are you referencing the nickname Tall Blacks?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah I am not too sure but that is certainly what they are called",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Apparently the Supreme Court enjoys a game of basketball too. On the top floor of the building they shoot hoops at what has been called \"the highest court in the land.\"",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Good for them, how handy to play there at work. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Many of my friends growing up were big basketball and footballs fans. The highest paid state employee in 39 of the 50 states coaches one of those two states at the college level",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I guess it pays to be a coach then. the players themselves also get paid quite a bit too. do you listen to the radio much?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I don't, actually, but I use other things that utilize radio waves. It's pretty crazy how the sound can be extracted and transformed over miles",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Actually if you turn it to am you can catch Jupiter's storms",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Those are some strong storms! Considering how many artists are from Canada, I wouldn't mind tuning into stations that have to play at least 40% Canadian music by law",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes very true. do you know how soldiers used to make radios during WWII?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "From what I remember, all it would take is a pencil and razorblade, though I'm not sure how it would make sound",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I do not even know what channels they would be able to listen to",
+    "agent": "agent_2"
+  },
+  {
+    "message": "If they were in Europe, it would be interesting if they could pick up Finnish stations. One of them has a new program in classical Latin",
+    "agent": "agent_1"
+  },
+  {
+    "message": "The one that gives the news in latin right?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes. That would be an interesting program. I wonder if episodes are available online like classic radio dramas are",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi do you watch dramas?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I sure do. Did you know Jon Hamm taught drama in a high school?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Cool. Did you ever watch the show House MD?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah and he even taught Ellie Kemper, she is so funny. Yeah I watch House",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Laurie made lots of money there, $700 000 per episode",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is a  lot. Patrick Stewart also teaches drama in the UK at the master level",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Neat. Do you like Jim Carrey?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I sure do he is pretty funny. DO you like him?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I like him a lot and he no longer is doing dramas because they do not project positivity",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Have you heard of the show Ikea Heights?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I have not heard of that, WHat channel is it on?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am not sure but it is shot in California in an Ikea store and people there do not even know",
+    "agent": "agent_2"
+  },
+  {
+    "message": "WOw. Do you like radio dramas?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I like them sometimes. Do you listen to them?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I do and there is a free website where you can listen for free",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Nice. Do you know why soap operas are called as such?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Hmm I have no idea, I thought because they are so cheesy, what is the reason?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Actually it is because there were soap manufacturers that sponsored them",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Oh that makes so much sense. Do you know why Caine became an actor?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hmm I am not sure of that. He went to college for it?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Nope he just attended drama class in high school because that is where the pretty girls went",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hahaha the guy really knew what he was after even that early\n",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Exactly. Do you watch the NFL games at all?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Do you enjoy football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I love NFL, and you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I love football too. I used to play pickup football with my friends or with my family all the time, but not so much anymore. I love watching NFL though! Did you know there's actually no rule against women playing in the NFL?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "If they can ball they can play lol",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Exactly! Only if they can pass the eligibility requirements though. I'd love to see some women take on Tom Brady!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "The university of iowa visitor locker room is already pink.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "True! I bet it's to make the opposing team feel emasculated. Did you know that New Orleans cheerleaders can't eat in the same restaurant as any NFL player? Even if they're already there first. They would have to leave! ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "What if the NFL player was female then?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That's so true. I wonder... the rule sounds pretty misogynistic anyway. I wonder if there can be a male cheerleader. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Did you know espn invented the yellow line?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I didn't, but that makes sense. I think they got an Emmy for it! Aren't the Emmy's for TV shows? That's so weird.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "To them it is still a show I guess.  In 1916 georgia tech won 222 to zero",
+    "agent": "agent_2"
+  },
+  {
+    "message": "What?! That's crazy. And since an average game is only 11 minutes in actual live gameplay, that's especially insane!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "If I were cumberland, the losing team, I would have given up by the first quarter!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Exactly! Imagine being on that team and realizing you're going down in history as the biggest defeat ever!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "In the 60;s, pro bowlers made more than football players",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Wow, that's odd. Today, engineers make more than the average NFL player over their lifetime. Maybe I should invest in some more education!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I have heard that.  I think it is a little misleading because the average NFL career is only 3-4 years and they still have time to find a career at 24 or 25 years old lol.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That's a fair point. Do you like the Patriots? I'm a big Giants fan so I don't like the Patriots very much. Did you know that in one of the past Super Bowls between the Giants and the Patriots, the Giants ACCIDENTALLY scored a touchdown and won the game when they were trying to not score a touchdown?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I hate the patriots.  That is amazing about the Giants.  Beat them alleged Cheaters every time!  The are the Lannisters of the NFL.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I heard that the author of Game of Thrones called them that. I hate Bill Belichick, although he is the \"winningest\" coach in NFL postseason.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah I know.  Enough is enough...I hope he goes back to the Browns haha.  Take care",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes, back to the Browns where he belongs!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "hi, do you listen to the radio?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I do in the car. How about yourself?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes me too. Did you know you can catch Jupiter's storm in the am radio",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Wow! That's amazing. I would love to hear that. I have heard that you can make a radio with rudimentary parts. Soldiers in WWII could make one with a razorblade and pencil. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "that is amazing. wonder what channels they were able to capture on that though",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's a good question. There is also a website where you can listen to old radio dramas for free. I wonder if those are still entertaining?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I have never listened to one . Do you speak any latin?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I definitely do not. I had to take medical terminology in college and there was a lot of that in there but that's the extent of my knowledge. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Well apparently there is a radio in Finland that gives their news in latin",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's very odd. I can't imagine who the audience is for that. Off topic but do you happen to know who the top three wealthiest US presidents were?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think it was jfk, washington and jefferson, right?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is correct. Do you happen to know if the guest house was built after the white house?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes it was and now it is bigger than the white house",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I assume it was since it is bigger. I wonder why that made that decision?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I am not sure actually. do you use your phone much?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I mostly text with it. I worked in a call center for a long time and I hate talking on the phone now. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Did you ever use a rotary phone?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I did when I was very young. It's been a very long time. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah that was ages ago. How about a phone book?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Long time for that also. I just look online. Did you know that the cables that carry our internet and phone data across the ocean are only 2.7 inches around?!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Wow and who knows how long too. Nice chatting with you",
+    "agent": "agent_1"
+  },
+  {
+    "message": "hey did you know the nfl has no rule against female players?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Smart move, no law suits that would be obvious and easy to pursue. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya that iss true, do you think we'll ever see one? I think its lpossible in our lifetime",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I just say something about girl who is trying to turn pro. Its seems a stretch, maybe as a kicker or punter. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya I could see that, do you watch the nfl? A game actually only has about 11 mins of actual gameplay apparently",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I just watch a few games here and there. Not so excited to see a bunch of millionaires play a game. How about you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya I don't watch any sports but I watched the superbowl, did you hear abou the weird rule the NFL has for Saints cheerleads?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is such a wierd rule. I wonder what the reason is? No hanky panky?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "lol, must be yes to prevent that sort of thing, I",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Not sure an engineer makes more than an NFL player.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya I think that was calculated over their lifetime, an nfl player makes a lot but only plays until age 40 or so",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Its funny that they have chips in the players sholder pads. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya that is crazy, I'm just hopeful they never make citizens wear those, thats too much information to share!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Do you do any fantasy football?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I don't actually, but I did see that people will do fantasy everything, even spelling bees!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "They were actually betting on how many times they would say gronk in the super bowl. Maybe not a fanatasy league but a wierd sports related fact. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "haha that is weird, do you do any fantasy stuff? I guess people also do fantasy politics",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I don't just don't have the passion for it, you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "no I don't, and I just don't care about sports personally haha, have you read anything about Terry Pratchett?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I have not read about Terry Prachett, whats up with him?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "well apparently he was knighted, he writes fantasy comedy novels, and so if he was knighted then I would assume his work must be good!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am not sure about that some people who have been knighted are real losers in my book. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "haha like who? one guy who is not a loser is the Benjarvus Green-Ellis, he has never fumbled a football!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Did you know that the University of Iowa's locker room is painted pink? I wonder why?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I think I did hear something about that.  I imagine it is an attempt to psych the other team out.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "So, it would be in the visiting team's locker room but not their own?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Right.  Teams do all kinds of things to bother the competition. I've heard of teams having heated benches in the winter for themselves but not for the visitors.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I would hate a cold bench. Then again, I wouldn't want to be some place that cold or watching football.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'd rather watch it inside where it's warm.  Have you heard about the Georgia Tech-Cumberland game of 1916?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No, what happened in that game?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Georgia Tech defeated Cumberland but here's the thing, they defeated them by a score of 222-0!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is insane. How could that even happen?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I don't know but it did.  It's the highest scoring game in history.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I'm sure. I don't even watch much and I couldn't imagine that score. I wonder if most people left or were they curious to see how high it would go?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I guess it depended on what team you were pulling for.  To me, it's surprising that the highest scoring game was in college football and not professional.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Maybe it is because some are not as good in college so they may be playing against someone not on their level.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Good point.  Professional does have a player that has never fumbled the ball.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I've heard that. Wasn't it a Patriot player?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It was. It was a running back by the name of Benjarvus Green Ellis.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is an interesting name. It's like he has a lot of names.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "i guess so.  Do you watch espn?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No. I don't have regular cable. I use a ROKU and I think you would have to pay extra for ESPN. I didn't watch it when I did have cable though.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh, I was going to tell you about them winning an emmy but that's okay.  Well, do you watch or have you watched pokemon?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No, I haven't watch pokemon. My sons use to play with the when they were little. Now they use their phones looking for pokemon in the neighborhood. It is funny.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is funny.  Pokemon is pretty popular and has been for a while now  They have over 750 tv episodes alone.  Well, I have to go now.  It's been nice chatting with you!  Have a great day!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "What do you think about Keith Jacksons death?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It's sad. I wonder how many people grew up hearing his voice?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I imagine this number in the millions taking into account he had a 54 year broadcasting carreer, so sad, but he was old.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I like that he used this phrase alot Whoa, Nellie!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That was a good phrase I liked it as well, did you see the beer comercial, the one in which he used this phrase?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I didn't. I did see the ABC would not let him retire at 70!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I think he ended his carreer in 2006, he got lured and decided to stay, he had a great voice.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "He was also a marine. Looks like he had been calling games since he was young. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Wow this guy sure is full with suprises, he didnt only call football games but also pro basketball games as well as other sports.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Crazy busy it seems. He didn't say anything when Woody Hayes punched a clemson player either!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I heard he was criticized because of this, wonder why he did that, maybe he had it coming. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I don't think he saw the punch. He also won an Emmy!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Do you happen to know why he won the emmy?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "apparently for the work he did calling the games. He was inducted into the sportscasters hall of fame too.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I can see why, the guy has a big resume its sad that his wife and children are left behind, as well as three grandchildren, they must be crying a lot.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "probably so. Snoop dogg wrote a fight song for his son's high school football team.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Thats nice from Snoop Dogg, can you tell me more about that song?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "no, it doesn't say anything more about it. Sorry. I can tell you this though. The highest paid across all u.s. department of defense employees are three football coaches of the service branch teams",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Oh I see I will have to google it then, and they must have a good salary then, the inventor of basketball was a bad coach.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "14 of the world's 25 largest stadiums belong to american college football teams! I guess it is a pretty popular sport.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It is! I love it, well I love all sports, and theres also a basketball court on the US supreme court building.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Are you a fan of football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm a huge football fan. How about yourself?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I love football both college and NFL, do you have a favorite NFL team of the 32?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm a New England Patriots fan and huge fan of Tom Brady how about you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Nice I am a Vikings fan, not doing so hot as of late. I also like the University of Iowa Hawkeyes, did you know they paint their opponents locker room pink?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "No I didn't know this. Did you know that in the 60's top bowlers made twice as much as the top football players?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is crazy to think, I wonder what the difference in salary is now, probably substantial",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Now there is no contest football players make way more than bowlers that's for sure. What do you think about the new rule that was implemented by the NFL?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Which rule is that?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Its the rule that a player can't lower his helmet and initiate contact with an opposing player.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is a good player because of safety concerns, but also was awesome to see back in the day when it was allowed. How do you feel about it",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I think it will decrease injuries and I think its a great rule because it protects the football players from serious head injuries.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "For sure, that is a huge problem now. Did you know engineers make more money in their lifetime than NFL players",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I didn't know this but its an interesting fact. What year did the NFL and the AFL merge?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I am not sure, do you know? Wasn't Trump an owner of an AFL team?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "The merger between the two leagues was completed in 1970. I'm not sure if Donald Trump was an owner of an AFL team.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think he maybe was for another league, seems like new ones are coming out every year now. Being youre a patriots fan, did you like benjarvus green ellis?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I loved benjarvus green elis and I read somewhere that he never fumbled in his career.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Right, that is outstanding in my opinion. He needs to teach a clinic to all these new era RBs! It was so great chatting with you!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It was awesome chatting with you as well. You have a nice day!!!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "You too! Enjoy the weekend!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Good Morning!  Hope your day is going well",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It is going well.  I'm considering catching a movie - what will you do today?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I'm working today, looking forward to the weekend and some relaxation.  Too bad football season is over - it's fun to waste away a Sunday watching football!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I agree - Patriots did their job - too bad for the Rams. I think I'll catch a Disney movie - the Ralph and the Internet sounds good - that's a sequel to a movie that was in the works for a long time!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yep, not a fan of either team, but the Patriots are amazing - probably wont see a run like this again (and they're not done!).  My kids saw Wreck It Ralph 2 and loved it, Disney does a good job",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Can the Patriots keep it up forever, that's the key - I think the risks of football are a bit high, however. I'm glad Disney keeps at it. Of course Disneyland, all the hype and all the merchandise, makes movie-making well worth it.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Tom Brady & Bill Bilichek will keep going forever!  Neither wants to be proven that they cant win without the other.  Disney movies are starting to rehash the classics, but like you said - with all the merch, how can you blame them?!?!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Did you ever wonder how TV gets all those great shots of plays at the football games - apparently they use tracking chips embedded in shoulder pads - yikes, someone is always watching you! I liked that commercial about the guy going to heaven and getting the new car from his grandpa - then he woke up and was in his cubicle at work and someone had Heimleched him - so funny!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I've heard about the tracking chips in the pads / on players and I wonder why they don't put a chip in the ball so they know when it breaks the plain of the End Zone?  I don't think I've seen the commercial you mention - was it on during the SB?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Good idea about the end zone. The commercial was in the Super Bowl and cracked me up because when the guy recovered after being apparently gone for a bit - it was back to work  - and he really wanted the car! So funny!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I guess I tuned out the commercials like I tuned out most of the SB game....  and our game of squares was terrible! ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Sounds like you are a big fan - funny fact, an average engineer makes more in his lifetime than the average pro football player - I think engineering is safer.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That doesn't surprise me at all, given the average career in the NFL is less than 3 years and while the superstars make a ton, the average guy doesn't",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I think that the political controversies of the past few years hasn't helped the sport too much - some people just want to watch folks play ball. I see the Patriots owner is in trouble today - so that's another negative out there.  Back to Disney - are there any animation films up for oscars this year?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I heard about the massage parlor thing on the radio - shocking!!!  I think Ralph Breaks the Internet is up for an Oscar.  Isle of Dogs will win, I think",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Isn't the Incredibles 2 movie out there as well? My kids saw it and liked it - sounds like it had some dark moments too - maybe beyond little kids ages. Speaking of football salaries -a fun fact - in the 60's a professional bowler made more than an NFL player.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "My kids like Incredibles 2 too - I just realized my kids see many movies without me....  I wonder how much money top pro bowlers make?  Most of the professional athletes didn't make much money until the TV revenue started rolling in and popularity of the superstars",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm sure TV had a lot to do with it. Another fun fact - the highest scoring game was in 1916 when Georgia Tech defeated Cumberland 222 to 0. Ouch.  Poor coach!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Talk about a blow out!  Cumberland folded it's program after that game I bet....  ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I bet the coach changed careers after that - how can you carry on with that on your resume. I guess this will be turn 10 - right? Should we wrap it up? Hope you have a good day if that's true. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Great chatting with you - have a great day!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Are you a big golf fan?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I liked to play with my dad when I was younger, but don't keep much up with it now. I like football and other sports more. How about you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I played more when I was younger and had more free time.  I'm a bigger football fan.  Did you know that the University of Iowa had their visitors locker room painted pink?  Must have been to mess with opponents minds. lol",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, but seems a little sexist, frankly. It's a pretty sexist industry of a whole, despite technically allowing women to play.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "True.  I agree.  Did you know that in the 1960's top bowlers made twice as much as the top football stars of the day?  I bet that number is reversed now.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Haha, I bet the division is way more than twice the amount now, too. It's much better to be an engineer, these days, though.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I agree on the engineer part.  Probably because they have longer careers.  Did you know that ESPN won an emmy for the superimposed yellow first down line on tv?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, that line makes watching the game on TV much easier.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I agree.  Out of the 32 NFL teams do you have a favorite?  I'm a Steelers fan.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm a Cowboys fan, myself, even though we'll never make it to the Super Bowl again, it seems.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "They will get there again.  That's a big stadium they have and a huge scoreboard!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Haha, well if that's what it takes to make it to the Super Bowl, Cowboys have it in the bag! We still miss old school Romo, I think. He was good in the beginning.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes.  He got beat up there the last few years.  I think if it wasn't for that things would have turned out better.  I was just reading that there are only 11 minutes of actual live gameplay in an average NFL game.  I kind of was always curious of how much they actually played.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, and they put all these tracking chips in everything!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Kind of scary when you think about it.  I often wonder what household products they put these chips in.  I know someone who works for a lighting company and they said their company has developed chips that are in lights that can record audio and video and you wouldn't even know the chips were there...plus they cost virtually nothing to make.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm not surprised, everything is connected to an app you can talk to so of course things are constantly listening. Even small chips have to communicate to each other somehow.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Scary.  Makes you wonder if the chips in the footballs could be programmed to be attracted to the chips in the shoulder pads of the wide receivers.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Maybe it's another deflate-gate all over again! They could be in the footballs, and able to change the pressure!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Interesting point to ponder over. Hmmm... I was looking at some golf course things and the average American course uses 312,000 gallons of water per day!  Holy smokes!  ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, it's incredibly wasteful. There's one in Dubai that uses four million. Anyway, it's been fun talking to you about sports!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I enjoyed it!  Have a good day!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "The Roseanne reboot did not last long did it?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Not with her on it.  I heard it is still going, but maybe under a different name.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "The original show was kind of good.  It was not \"California\" pretty, but showed middle class. Unusual for the day.\n",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Very much so, it also showed real struggles, which didnt happen much either.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I suppose the unreal part of the show is the way we all get to comment.  Sara Silverman \"loved\" the reboot. There are many others.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Everyone has the right to their opinion.  Sometimes it is just best for those in the public eye to be careful how they state theirs.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "So, Rosanne was a trump supporter, the sister was not (on the show).  Do you think that the portrayal of trump supporters was unreal in some way?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I didn't watch it.  But i heard that the portrayal caused some problems, because it treated politics as irrelevant.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Irrelevant must be a hollywood buzzword.  South park, a leader in irrelevance, aired a spoof of family guy, a show about irrelevance.  It makes my whole argument irrelevant.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I wonder if that made the flowers they got from the Simpsons crew.... irrelevant..  LOL",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It might have.  I can not remember the episode of Simpsons where Bart neither appears or is mentioned.  Do you know what that one was about?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I dont, honestly I dont even recall that episode.  There are so many of them.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes.  There are so many.  The ideas are repeating.  There are over 750 episodes of pokeman, thats 50 a year for 16 years.  Some times you have to end a show when its time.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, like 15 years ago....  lol",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I always wondered who narrated Thomas the Tank Engine.  that was a nice relaxing show.  Those troublesome trucks are at it again.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Well you might recognize some voices, Ringo Star and Alec Baldwin each did 52 episodes.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Then there was George Carlin and the seven words you can never say. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I love Carlins explanation of the F word as all parts of speech.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is a classic thing.  He has done a lot over the years.  Do you suppose he would like the 3 horizontal lines for menu items being called a hamburger icon?  Carlin might not have like computers.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, I just call that the menu button.  I dont know where hamburger came from.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Hamburgers cause me joy.  Constant novelty from clicking links cause addiction.  Maybe there need be no other relation.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi, do you like football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes I enjoy the game. I like the NFL even though there's only 11 minutes alive gameplay.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That seems short. Do you know there is no rule against females playing?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes as long as they meet the league's eligibility requirements they can play! I would like to see a girl play.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "They cannot eat in the same place as the players, at least the Saints cheerleaders.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is a weird rule. How did they enforce the rules of the cheerleaders being required to leave?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Asked politely? I would be upset if I were a cheerleader! Like I would lose all of my inhibitions and just hook up with a player at the restaurant. That's a little demeaning...",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes that's a very good point. Maybe the NFL tracks cheerleaders just like it tracks players movements on the field.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I really hope not! That's really disturbing! Kinda stalker-ish.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes it would be I'm sure they don't do that. Although they do track the balls to measure velocity, rotation, Ball Speed, and location.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That makes sense to me. It would be helpful in assessing the QBs.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes it definitely would be. I wonder what Tom Brady's football stats are like? He is definitely one of the best as he is 5 super bowls.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "He's been pretty good! All time great! Do you have a favorite team?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Definitely not the patriots LOL! What about you? Tom Brady has never eaten a strawberry and his entire life. He is missing out.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I am a Bears fan. I don't mind the Pats...",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh Chicago has a dedicated Fan base for sure. Soldier Field would be a fun place to watch a game. Before 2007 Tom Brady had never thrown 30 touchdown passes in a season.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Then he got Randy Moss and blew that out of the water!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yup real talk! Tom Brady's wife makes double her husbands salary!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I would be really happy if my wife made double what I make. That would be great!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes me too. Maybe some day...I also find it funny Brady was drafted in the 6th round in 2000. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Talent evaluators missed that one! Nice chatting with you!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "The Reskins really need Alex Smith back in locker room and more importantly on the field dont you think",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Alex Smith was a great asset. He took the time to really get a feel for people",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Its a shame that he is seeing the same troubles as Griffin did. Its uncanny.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "He was in the league a long time. At least he gave the game everything he had",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I didnt' think he was all that of a QB but his teammates really took to him right away",
+    "agent": "agent_1"
+  },
+  {
+    "message": "He was a true professional.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I don't think Smith will be the same even if he does make it back to the field after his gruesome injury. Much like Griffin he might be a back up but thats all",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Well at least he will get back up. Thankfully since the NFL uses tracking chips they can track players moves and help avoid crazy injuries",
+    "agent": "agent_2"
+  },
+  {
+    "message": "He does have an education to help too; he has a masters degree",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah he is clearly smart having earned his degree so quickly",
+    "agent": "agent_2"
+  },
+  {
+    "message": "One QB I don't like it Baker Mayfield, I wish he would have stuck to professional gaming instead of football",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm confused as to why the saints cheerleaders cant eat in the same restaurantas the players that seems like an absurd rule",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It is; proof of the hypocrisy of NFL and its rules",
+    "agent": "agent_1"
+  },
+  {
+    "message": "You needn't look hard to find proof of that",
+    "agent": "agent_2"
+  },
+  {
+    "message": "This year's 17 week season has wrapped up and now its playoff time",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I wonder who will be the NFC and AFC champs that will go to the Superbowl in Feb",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It is likely that we will only see 11 minutes of actual gameplay no matter who plays",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yes no OT this year",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Do you think we will ever see a female in the NFL?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Its not against the rules so it is likely someone is raising the first female NFL player as we speak",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I hope to see at least a field goal kicker as a woman",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hello there, are you a fan of football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am a fan, what about you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I am as well, did you watch the Super Bowl this past Sunday?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I did, I was rooting for the patriots, what about you? the game was really close and really defensive not sure if I liked it",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I didn't like that it was so low scoring and mostly defense, it does not make for an exciting game.  I was partial to either, but I am impressed by the Patriots domination of the league the last 2 decades. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Its actually the Superbowl with the fewest points scored, and the Patriots have done things right that is for sure, they used to have a great player called Benjarvus Green Ellis.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah did you kow he never had a fumble in his entire career!?  That is very impressive. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I know, that is really impressive! I bet only a few players have accomplished that, maybe he is the only one, did you know that ESPN won an emmy because of the creation of the first down line",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah that is an interesting fact.  I am trying to think if I can remember watching games before they put that yellow line up there. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "The yellow line has been there a long time and I think that the emmy is well deserved as it has definetely contributed with a lot to the game.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I think it has totally changed how people were able to watch and cheer, it makes so much of a difference. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It does, I guess thats why games were so unfair in old times, there was a team that lost by 222 points ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah isn't that crazy, I wonder if there were any defense playing that day at all!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I know, it seems like the other team was blind or they were all injured, another interesting fact is that bowlers made more than football players back in 1960",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I thought that was pretty wild.  I guess if I got the chance to do it again, I would be a pro bowler in the 60's!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I guess thats a safer sport, football has proven to cause a lot of brain damage in players so thats not good.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah it has, if you ever watch the movie Concussion, with Will Smith, it definitely makes you think twice about how much damage the sport does to ones body and brain most of all. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I think ive seen that film before, I will google it later or maybe its available in Netflix, there is a crazy rules the New Orlans Saints have, its really sexist and rude in fact.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah that rule seems so outdated and dumb.  I can't believe that is an actual rule. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I know right, I mean cheerleaders could actually sue the team for something like that, its a rule that should be abolished",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah I couldn't agree more.  Well it was nice talking with you today, I hope you have a good day. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I would have to say that the telephone is one of the most important devices ever invented. Where would we be without telecommunications.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "For sure.  Did you watch the State of the Union last night delivered by President Trump?  Surprisingly he is not one of the three wealthiest presidents in American history.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Well, his net worth may well be negative. President Banana fo Zimbabwe probably had more moneof",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Possibly.  JFK, Jefferson, and Washington certainly had more.  They are the three wealthiest presidents in history.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Well, the President of Indonesia has done 3 pop albums. That sounds like something up President Trump's alley.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Did you know until 1805 the runner up in the election became vice president.  Can you imagine Trump working with Hillary?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I did not know that. Who would get the guest house?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Not sure, good question.  I know it's larger than the white house which is ironic.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "But its not in NYC. So it would take longer to dial it up, at least on a rotary phone.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Right, because NYC's area code is 212.  I get it.  ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It doesn't matter on an iphone though, which is more powerful in some ways that the entire US Nuke deterrent system.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's amazing.  And all of that computing power dependent on a 2.7 ich cable laying across the ocean floor.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Back in the day, WW2 soldiers could make radios using a razorblade and pencil. They were probably more secure than todays devices.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Most likely.  Hard to hack a razor blade I suppose.  I bet those soldiers were strong, but not strong enough to separate two phone books joined together with overlapped pages.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Was Helen Sloane Dudman strong enough to do that? She bought 3 radio stations. That's impressive.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, that does sound impressive.  I wonder if she ever listened to one of the thousands of episodes of classic radio dramas online.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think she preferred Nuntii Latini.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Kinda like Canadians prefer Canadian radio.  They require at least 40% of the music played to be Canadian.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No wonder the President of Indonesia couldn't get any airplay!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Either that or he wasn't very good.  ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "He was no President Banana. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's for sure.  Well, pleasure chatting with you.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Same here. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi, do you like football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I love the sport, do you have a favorite team? AFC or NFC?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "NFC and the Bears. You?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "AFC and the New England Patriots",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Nice! You've had a great run lately then. Did you celebrate their SB win?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "No, not really, Bill Belichick got served, that is a sure thing but other than that I have no idea",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I thought Bill had a great game plan. He limited the offensive genius to like 3 points.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah the game was a bit boring though, I thought it was going to have more action in it",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It was boring but Bill usually wins the boring ones. There is only 11 minutes of play so maybe that is why.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I guess better to win in a boring way than to lose in an exiting form, and 11 minutes don't seem like much",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah, as a bears fan, I just want wins! I could use like a decade of them like you guys.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah we have been pretty lucky and then theres also Brady, his a good luck charm",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I know, plus he's dreamy! I mean, that's a good looking dude.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I have to give it to him, great athlete and also has a smoking hot wife so he has just about everything in life",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Don't you kind of hate those guys? Good at everything and has everything? At least I have eaten strawberries!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I kind of do, I wish I had a 30th part of what he has or even less lol, and that is weird, how can he not like strawberries or even try them",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Going back to his youth, he never had a strawberry? If not, he is seriously missing out. I had a strawberry protein shake this morning, made with real strawberries!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Strawberries are so tasty, I couldn't  live without them.  He has a good TD pass record though.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah, I remember that Randy Moss season with 50 TDs and it was magical!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "And prior to that season he never threw 30 TD passes in a season so yeah magical",
+    "agent": "agent_2"
+  },
+  {
+    "message": "It was nice chatting with you, have a great day!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "did you know that Hugh Laurie is the highest paid TV actor ever?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi! No I did not know that, very interesting! I was reading an article about the Patriots Josh McDaniels just might take a coaching position! Do you watch football?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I do  a little bit, I want the patriots to win tomorrow, what about you?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes, I don't follow it very much but I definitely like the Patriots. McDaniels has been one of the highest paid coordinator, crazy!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya that is crazy, did you know that Kellan moore is left handed? hes the only one in the NFL",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Wow, you would think there would be more left handers! I like how the NFL has no rules against females if they meet requirements.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya I was wondering that, I can see a female kicker. to be honest we will probably see that in our lifetime",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I hope we do see females in the NFL, but man that is a tough sport and I can't imagine getting tackled. So interesting though that a full football game has only 11 minutes of actual live play...so I guess you could hang in there that long.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "yes that is crazy because games take hours to watch, also crazy that the nfl puts special chips in their uniforms so that they can track things like speed and location",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I know it is crazy. I didn't know that, very cool! There is so much that goes on during a football game!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "there is, I read that baker mayfield was a halo 3 champion and could beat anyone on his campus at that game",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Wow, haha that is pretty interesting! I love the quarterbacks in football, they are the best at being a leader for offense, love it!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya that iss true, do you watch football? do you know who invented the huddle",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I watch some football, don't have a lot of time to watch it. I think the huddle was invented by a deaf quarterback so nobody could outside the huddle could read the hand signals.....",
+    "agent": "agent_2"
+  },
+  {
+    "message": "haha that is true, I wonder how good he was, I wonder if he could call audibles even though he was deaf",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Very interesting thought, how rough would that be to play football while being deaf. So do you watch the superbowl, there's a lot of drama this year about the NFL and superbowl.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "that would suck, and yes I'm going to a party tomorrow, i want the patriots to win what about you?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "We always watch the Superbowl, will have a couple people over but nothing big. I am rooting for the Patriots though!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "haha me too, do you like Michael Caine? I guess he only got into acting to chase cute girls haha",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Haha, that's funny! He made the right choice to get into drama! I like Jim Carrey in Drama films but he won't do drama anymore. Love his comedy too though.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya he did, I should have followed in his footsteps, and I guess Jon Hamm taught the girl from the office, Erin, when he was a teacher, definitely didn't know that",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi. I didn't know that benjarvus green-ellis never had a fumble.  Impressive!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I know, right? I thought it was weird how the cheerleaders arent allowed to eat in the same restaurants as the nfl players.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "yeah, that is bizarre.  Iowa's visiting locker room is pink.  Strange",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I wonder if that was meant to try to demoralize the players",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Seems like it would work lol.  ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I was shocked that the highest score in a football game was 222... THATS CRAZY!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No doubt.  And the other team was shut out!  Also, bowlers used to make more than football players.  That's changed!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yea it has... could you imagine if bowlers were paid more than nfl players now? They would make average 6-12 million a year for bowling lol",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That'd be nuts!  An NFL game only has 11 minutes of gameplay...I never would have guessed that",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I already knew that, which is why I get so frustrated with how long a game takes :(",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah, I can imagine that would be frustrating.  I usually only watch the super bowl and that game takes forever!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I thought it was pretty cool that the cat in the opening scene of the Godfather, was just a stray. Chances are that was an unplanned scene.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I'd bet that, too.  So, in asia you can pay to play with cats...now that's weird!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I think its a waste of money lol just get a cat",
+    "agent": "agent_2"
+  },
+  {
+    "message": "no doubt, cats are everywhere! ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Everywhere including Alaska... where they are made mayors. Now thats weird lol",
+    "agent": "agent_2"
+  },
+  {
+    "message": "They also co-author physics papers!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Im not sure the actual purpose of either, but they are both pretty strange!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah, I don't get it either lol.  Apparently cats just sleep for two-thirds of their lives anyway",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yea, Im 35 right now... I couldn't imagine sleeping 12 years of that. No wonder cats are considered lazy lol",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That's basically sleeping 16 hours a day...I cannot imagine that",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I will say that I was pleased to see that at least an engineer has higher wages than an nfl or mlb player. I faithfully believe that sport players are WAY overpaid.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Considering how unimportant their jobs are, I agree.  Unfortunately they generate a ton of revenue sense people pay so much for tickets and merch.  Its all a waste IMO",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hugh waste! I think that a percentage of the earned income should automatically go to funding projects or foundations that better the citizens lives or economy. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I agree.  What kills me are the billionaire owners that cry poor when they want a new stadium,  No way that should be paid for by taxes.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi there, do you watch the NFL?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi! Yes I do sometimes. What's your favorite team?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think the Patriots, I like them best. One of their former QB never fumbled a ball in his career. How about you?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "My husband is from the bay area so we root for the Oakland Raiders. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Nice, cool. Do you know what the highest score ever recorded in a game is?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "222-0",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah that must have been quite the game. Do you know who played, the two teams?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Georgia tech and cumberland. Are you familiar with different kinds of football from different parts of the world?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah there are tons of different kinds like soccer, Canadian and Australian football, rugby, a bunch of them",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm originally from Hungary and our football there is soccer. My grandpa was a huge fan.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Nice, it is a good sport. Did you know ESPN won an Emmy once?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I had no idea. I wonder why the University of Iowa's locker room is painted pink.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think they did that to intimidate the opposing team but I am not sure if that really works",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh ok I see. Do you watch basketball?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I watch it sometimes. I didn't know until recently that the dunk shot was banned because of Kareem Abdul-Jabbar",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I didn't know that either. Or that in 39 out of 50 states, the highest paid state employee is either a college football or basketball coach. There is lots of money in sports.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah that is for sure, lots of people watch it so no surprise I guess. Do you know who invented the sport?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "James Naismith. Interesting that he is the only losing coach in the University of Kansas history",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah that is pretty bizarre. Have you heard of the highest basketball court in the land?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I haven't heard of it. Do you know where it is located?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah it is in the US supreme court building and it is on the top floor, hence the name I am guessing",
+    "agent": "agent_1"
+  },
+  {
+    "message": "What is your favorite basketball team? ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I do not have a favorite but just watch the games from time to time. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hello! Are you a big football fan? :) ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi there, I am a fan, but not a huge fan, I do follow my team closely though.  How about you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I used to be more into it when I was younger. I lived in Louisiana for a while so it's funny they brought up the Saints. What's your team?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am from Wisconsin, so I follow the Packers, we didn't even make the playoffs this year, so disappointing. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I bet! The packers fans seem to be really into football, very dedicated to their team. Have you been to any NFL or college games? I've passed by the super dome in Louisiana. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I have been to a few games, and I have been to Louisiana and saw the super dome as well.  I would like to go back there now that I am older. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That would be fun! It's crazy to think about how many people have been to that super dome, Tom Brady has probably been there a bunch. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah I know he has won a few games there.  Did you know he was picked 19th back in the 2000 NFL draft?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I did not! He's been around for a while, I'm surprised he hasn't retired yet. His history as a football player is impressive. Been to the super bowl 8 times with the patriots. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah he sure has, I don't think he will retire for at least two more seasons. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Wow, he's trying to hang around for a while. I don't blame him though, I kind of wish Peyton Manning stayed around for a while longer, I liked him. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah he was a really good quarterback as well, I thought he was pretty funny as well.  ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Something that was funny to me while reading these articles is that Tom Brady has never eaten a strawberry before lol I wonder what's so scary about a strawberry",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is insane, I don't know how you can be as old as he is and not eat a strawberry.  ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yeah, a lot of weird things about food in these articles actually. It said in the factual section 2 that New Orleans saints cheerleaders are forbidden from eating in the same restaurant as any NFL player, if a NFL player comes into the restaurant they have to leave. That's crazy. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That is crazy, that rule seems so outdated and silly.  Imagine a cheerleader getting up and leaving. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That would be sad, if I was a cheerleader and had to leave I would at least want to finish my meal first. Double standards really. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah it really is double standards and that type of thing is old and not normal anymore. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Maybe in 2019 they'll change that. I've heard that cheerleaders don't make very much money either, which is a shame because they put a lot of work into keeping their bodies pretty much perfect. ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah that is also a shame when you consider how much players make. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Well it's been nice talking to you! I hope the rest of your day goes well! ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Same here, I hope you have a good night. ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Hi are you a football fan?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hi, no not really.  Are you?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I watch it during the season because I don't have anything better to do.  Especially for the Monday and Thursday night games.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I get that, especially when there is only 11 minutes of action in a game.  I guess the rest is commercials?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Isn't that crazy that it's such a short amount of time for something they drag out of 3 hours?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I know! They sure do milk it for all its worth.  ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ESPN won an emmy for creating the superimposed yellow first down line on tv.  That has been a good addition to watching games.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, that was a good addition. Can't believe that Benjarvus Green-Ellis never fumbled.  Amazing!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That's an incredible stat to have!  The average lifetime earnings of an engineer is higher than the average lifetime earnings of an NFL or MLB player.  Probably due to having longer careers.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, that's what I would think.  NFL careers are probably pretty short on average due to injury, and it is really hard to get to the majors and stick there long enough to make any serious money",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes.  Did you know that there is no written rule that prevents females from playing in the NFL?  Maybe we'll see on soon?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Maybe we will!  That would help boost ratings, I would think.  Maybe then they'll start letting the Saint's cheerleaders eat in the same restaurants as the players.  What a stupid rule!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is an odd rule for sure!  Kind of dumb.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Do you a cat?  They are amazing creatures.  One is a mayor in Alaska!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I have one outside.  Yes they are.  I would like to see the cat cafes they have in Japan.  Do you know how those work?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yes!  They can pay by the hour to play with cats and have drinks. Seems like a cool place!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I agree!  When a cat reaches the age of 15 they have usually spent 10 of those years sleeping!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "That's a life well lived lol.  Cats can also co-author physics papers!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "What?  That is crazy!  lol  There is a cat named Stubbs who is the mayor of a town called Talkeetna in Alaska!  How does that work?  lol",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I wonder who that cat ran against?  It would've been funny if the other candidate was a dog!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Hahah Yes it would be!  I've had a good time chatting with you!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Me too.  Have a great day!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Hi, how are you?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Doing good? Do you follow football at all? It's a family of sports that includes rugby, gridiron, and soccer",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Why yes, I do I love all types of football.  Do you like football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yea I enjoy gridiron, I also think rugby football is pretty interesting too, would love to play it",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Interesting to me that the word \"football\" is understood to refer to whichever form of football that is most popular in the regional context in which the word appears.  So football in some areas, is called soccer in other parts.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yea, I wonder if there is any other football variation types besides American football, soccer, and rugby",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Oh, there's more, for sure.  ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I wonder how much money other footballers make, in the US an average engineer makes more than an average nfl player over their lifetime",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think the true Soccer players make pretty good bank.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I wonder if soccer players are tracked like how the NFL embeds chips into shoulder pads and footballs to track things like velocity and location",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I guess the could place a tracker in their shin guards or shoes?  Not many places to place a tracker on them, unlike the NFL players. Lol",
+    "agent": "agent_1"
+  },
+  {
+    "message": "No, I guess not. It's funny how the nfl tracks all these stats yet the average game only has 11 minutes of gameplay",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I know, I felt like the last Super bowl I watched was about 3 hours long.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yea that was excruciating to watch. Do you have a favorite nfl team out of the 32?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I like the New England Patriots and the GOAT!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yea the patriots are a great team. Did you know apparently Benjarvus Green-Ellis never fumbled the ball in his career?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes, that's an impressive feat, just imagine the stress and pressure to remain perfect.  I know I couldn't do it.lol",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yea that pretty tough, probably tougher than the time Georgia tech scored 222 points on Cumberland back in 1916",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That sounds like a train wreck, but it would never happen today.  That last Super bowl was the lowest scoring Super bowl, ever. On a side note, I read somewhere that the Eagles once set up a court in their stadium for six years because of their fan's bad behavior.  Isn't that wild?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Lol well the fans in Philli do have a bad reputation so I'm not surprised there was an actual court inside the stadium",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That's just too funny!  Anyway, it's been nice chatting with you this morning, I need to go walk my dog, now.  I'll talk to you later, friend.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Hey can you guess the top 3 richest presidents in history?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I know about jefferson and wasington? WHo else is in there?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "well I thought it would be Trump but it is actually JFK, weird!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh wow, I guess they had a lot of money back then. did you know the guest house is larger than the white house?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "haha I didn't know that seems odd, also odd is the president of Zimbabwe's name is President Banana haha",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yeah I wonder if that means something else in their language though",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya I don't know haha, I think President Banana shoudl release a pop album though like the pres. of indonesia did haha",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yeah that guy honestly, a president and a pop star. wonder fi they are good",
+    "agent": "agent_2"
+  },
+  {
+    "message": "haha I'll have to check it out, did you know that teh runner up in the Pres. election used to become the VP? Trump and Hillary could have been in the white house together, maybe they release a pop album together? hah",
+    "agent": "agent_1"
+  },
+  {
+    "message": "hahahha that would have been funny. did you know the white house has twin buildings in ireland and france?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya I think they're like twin buildings so exactly the same, do you think the interiors have similar paintings and desks or is it completely different? haha",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I have no idea. and do the presidents of those countries like there too?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "haha thats a good question, did you like Teddy Roosevelt? I think he's pretty awesome, he would wrestle wild animals haha",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I heard he also banned christmas trees from the white house",
+    "agent": "agent_2"
+  },
+  {
+    "message": "ya he did, and he also gave a speech, got shot in the chest, and then continued giving the speech haha",
+    "agent": "agent_1"
+  },
+  {
+    "message": "pretty amazing. did you know they still use floppy discs at the white house?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "haha I have heard they do! But they do have solar panels so at least that is somewhat advanced",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yes I like that. do you watch football?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I watch it a bit I saw the superbowl, I was glad the Patriots won and they have a teammate who has never fumbled the ball!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "yeah that is actually pretty amazing, good for him. did you know espn won and emmy?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I did know that, I think for that yellow line on tv? Definitely a great invention!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Yeah, that is it. nice chat",
+    "agent": "agent_2"
+  },
+  {
+    "message": "hi how are you? do you like football?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Sure do.    I even play fantasy football.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "i dont know that. how does it work? do you make money?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "It is certainly possible to make money.     Mostly it is a way to create interest in players on teams you do not root for such as Lamar Jackson.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "oh,ok. are you good at this? i guess you must know the players very well then.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I know a lot about some players like Baker Mayfield on the Browns, but am not an expert.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "baker mayfield? is he good? does he play video games?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Baker Mayfield is good.    I do not know of his video game habits.     Do you follow the real NFL?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "i dont usually. i follow around the playoffs. i try to watch the super bowl.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "The Super Bowl is usually held the first Sunday in February.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Yes, i was unable to watch it this year. busy. but i heard the game was not that exciting this year.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "There is always some interest in the champions of the NFC and AFC playing each other.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "i guess so. i usually root for the underdog. i like the upset. do you bet on the game?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I am not allowed to gamble because I work for a company that makes tracking chips in shoulder pads!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "thats great! LOL. the tracking chips. can they track players off the field to make sure they dont go to the same restaurants as cheerleaders?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I would guess so, although players don't wear shoulder pads to restaurants.     Maybe ask Matt Patricia, who is both a coach and a rocket scientist.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "the chips are only in the shoulder pads? Ok, so that won't work. Matt might have a way to keep track of those guys and their eating habits.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "True.      A big change from the first nfl playoff game in 1932!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I think that the NFL has come a long way. The players make more, the teams are bigger, everything is bigger. A lot of injuries, though. Anyway, great chat!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Thanks!   I think I will go read up on the 32 teams in the NFL.",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Enjoy! I'll talk to you later, I'm sure.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "No problem.     RPI is a cool university!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Do you know anything about the Pro Football Hall of Fame?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Only slightly. Why, what's up?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Just curious.    Been reading about Ray Lewis and Canton.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh yeah! The name Ray Lewis rings a bell! Have you read anything interesting about him?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "He had an emotional story about his mother during his induction.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Aw, that's sweet! What happened to his mother? Do you know?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I believe she is still alive.     He told stories of growing up in poverty and how this moment was \"Momma, we made it!\"",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh that is so heartbreaking and heartwarming at the same time! I remember who he is now! The guy that got inducted into the pro football hall of fame! It's so touching to see someone speaking of their mother as he did in his speech! ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Are you a fan of the 32 teams in the NFL?    Any particular one?",
+    "agent": "agent_1"
+  },
+  {
+    "message": "I'm not really a big fan of any of them. I guess if I had to choose I'd pick the Seahawks because I love Seattle! Haha. Does that count? And do you have a favorite team?",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I like the New Orleans Saints, even though their cheerleaders are forbidden from eating in the same resrauarant as any NFL player.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh I've heard about that! Can you believe if one of the Saints cheerleaders is eating in ANY restaurant and ANY NFL player comes in, she has to get up and leave? What is going on with that! It's terrible!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "I wonder if the rule would apply if there were a female NFL player.    I don't believe there is any gender rule in the league.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Nope! I've heard that if a female made certain qualifications, then she could 100% join the NFL! I mean, it kind of tempts me to try it! ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "One or two might work, Cumberland lost 222-0 in 1916.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh wow, that is quite the loss! I've never heard about that game before! Here is a fun thing I was reading about that's very related! Those big American flags at football stadiums weigh 1,100 pounds and cost $50,000 to make! What a waste of money! That money could really help so many people! ",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Well, times, people and things change.    In the 1960's, football stars made half as much as top bowlers!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh wow! I've never bowled, never in my life. I wonder how much they make today compared to one another. Hey do you like any country music? I like some, like Dolly Parton. I was just reading about how country music was inspired by Celtic music. I think that's neat!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "That is very cool, although it is a little sad there are only two African Americans in the Country Music Hall of Fame.",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Absolutely. I've heard that country music used to be called \"hillbilly\" music! Good thing they changed the name! I think it was Connie B. Gay who coined the actual term \"country music\".",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Now many people love it!    Even rock stars U2 opened for themselves as the Dalton Brothers from Galveston Texas!    ",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Oh that is so cool! What a unique thing to do! Opening for yourself as another band! Very interesting! Oh, haha! Did you hear about a 1996 album called \"NFL Country\"? NFL players sang along with country music stars. I'd love to hear that!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "Pretty cool.     I think I will go see if it is on Amazon.    Need to help out George Strait's cousin!",
+    "agent": "agent_1"
+  },
+  {
+    "message": "Haha. Yeah I feel like listening to some Dolly Parton now. It was great chatting with you!",
+    "agent": "agent_2"
+  },
+  {
+    "message": "No problem.    I think I'm going the other way and will listen to some jazz urban decadence!",
+    "agent": "agent_1"
+  }
+]
